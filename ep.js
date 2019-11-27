@@ -28,7 +28,7 @@ svg.append("text")
 .attr("text-anchor","middle")
 
 var image = svg.append("svg:image")
-    .attr("xlink:href", "0x5f8d55.svg")
+    .attr("xlink:href", "0xa15545.svg")
     .attr("width", 750)
     .attr("height", 750)
     .attr("x",0)
